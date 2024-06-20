@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 20px;
+  font-family: sans-serif;
+}
+
+.App {
+  width: 800px;
+  margin: 0 auto
+}
+
